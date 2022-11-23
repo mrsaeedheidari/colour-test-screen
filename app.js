@@ -16,7 +16,7 @@ const colors = [
     "teal",
     "aqua",
     "aliceblue",
-    "orange",
+    "antiquewhite",
 ];
 
 function setColor(color) {
